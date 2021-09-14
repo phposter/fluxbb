@@ -1,12 +1,8 @@
-# FluxBB 1.5 Readme
+# PHPoster Forums README
 
 ## About
 
-FluxBB is an open source forum application released under the GNU General Public
-Licence. It is free to download and use and will remain so. FluxBB was conceived and
-designed to be fast and light with less of the "not so essential" features that some
-of the other forums have whilst not sacrificing essential functionality or usability.
-
+PHPoster Forums is a lightweight modified fork of FluxBB 1.5.11
 ## Requirements
 
 * A webserver
@@ -20,9 +16,13 @@ of the other forums have whilst not sacrificing essential functionality or usabi
 
 ## Links
 
-* Homepage: https://fluxbb.org
+* Homepage: https://phposter.org (coming soon)
 * Documentation: https://fluxbb.org/docs/v1.5
 * Community: https://fluxbb.org/forums/
 * Resources: https://fluxbb.org/resources/
-* IRC: irc://irc.freenode.net/fluxbb
-* Development: https://github.com/fluxbb/fluxbb
+* Discord: coming soon!
+* Development: https://github.com/phposter/forums
+
+## How to install
+
+See the wiki
