@@ -26,3 +26,5 @@ PHPoster Forums is a lightweight modified fork of FluxBB 1.5.11
 ## How to install
 
 See the wiki
+
+Downloads can be found at 
